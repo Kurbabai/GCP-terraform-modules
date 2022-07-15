@@ -1,0 +1,1 @@
+This project will create static website with spce invaders game using Terrafrom modules
